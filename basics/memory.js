@@ -1,3 +1,4 @@
+// JavaScript Repository By Aryan Kashyap
 // memory types:-  stack and heap
 //datatypes are based on memory allocation
 /*

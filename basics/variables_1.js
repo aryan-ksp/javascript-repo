@@ -1,3 +1,4 @@
+// JavaScript Repository By Aryan Kashyap
 const accountId = 123 // fixed value using const, not changable
 let accountEmail = "aryn.ksp@gmail.com"
 var accountPassword = "12345"

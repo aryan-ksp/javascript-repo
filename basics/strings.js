@@ -1,3 +1,4 @@
+// JavaScript Repository By Aryan Kashyap
 // strings can be written as double quote and single quote both
 
 const name = "aryan"

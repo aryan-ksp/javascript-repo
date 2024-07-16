@@ -1,3 +1,4 @@
+// JavaScript Repository By Aryan Kashyap
 //let score = 33
 let score ="33"
 console.log(typeof(score))
