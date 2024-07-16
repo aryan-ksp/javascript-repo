@@ -27,3 +27,8 @@ yourArr.pop()
 console.log(yourArr);
 yourArr.unshift(100)// pushes in front, it is time consuming , as it changed every single value's position by one step
 console.log(yourArr);
+yourArr.shift()
+console.log(yourArr);// removes that front value
+
+
+// contd in array2....
